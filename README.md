@@ -1,7 +1,7 @@
 🆔 Employee ID Card with API
 A sleek web application that dynamically generates employee ID cards using live data fetched from an external API. Perfect for showcasing how to work with APIs, DOM manipulation, and responsive UI design.
 
-🔗 Live Preview: https://se-sabbir.github.io/Employ-Id-Card-with-Api/
+🔗 Live Preview: https://se-sabbir.github.io/Employee-Id-Card-with-Api/
 
 ✨ Features
 🔄 Fetches employee data from a public API
@@ -44,7 +44,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/se-sabbir/Employ-Id-Card-with-Api.git
+git clone https://github.com/se-sabbir/Employee-Id-Card-with-Api.git
 Open index.html in your browser.
 
 📌 API Source
